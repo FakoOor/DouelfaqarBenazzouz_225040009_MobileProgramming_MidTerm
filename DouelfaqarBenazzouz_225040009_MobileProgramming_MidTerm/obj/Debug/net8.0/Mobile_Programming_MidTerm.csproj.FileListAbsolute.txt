@@ -1,0 +1,14 @@
+C:\university\4th semester\Mobile Programming\Mobile_Programming_MidTerm\bin\Debug\net8.0\Mobile_Programming_MidTerm.exe
+C:\university\4th semester\Mobile Programming\Mobile_Programming_MidTerm\bin\Debug\net8.0\Mobile_Programming_MidTerm.deps.json
+C:\university\4th semester\Mobile Programming\Mobile_Programming_MidTerm\bin\Debug\net8.0\Mobile_Programming_MidTerm.runtimeconfig.json
+C:\university\4th semester\Mobile Programming\Mobile_Programming_MidTerm\bin\Debug\net8.0\Mobile_Programming_MidTerm.dll
+C:\university\4th semester\Mobile Programming\Mobile_Programming_MidTerm\bin\Debug\net8.0\Mobile_Programming_MidTerm.pdb
+C:\university\4th semester\Mobile Programming\Mobile_Programming_MidTerm\obj\Debug\net8.0\Mobile_Programming_MidTerm.GeneratedMSBuildEditorConfig.editorconfig
+C:\university\4th semester\Mobile Programming\Mobile_Programming_MidTerm\obj\Debug\net8.0\Mobile_Programming_MidTerm.AssemblyInfoInputs.cache
+C:\university\4th semester\Mobile Programming\Mobile_Programming_MidTerm\obj\Debug\net8.0\Mobile_Programming_MidTerm.AssemblyInfo.cs
+C:\university\4th semester\Mobile Programming\Mobile_Programming_MidTerm\obj\Debug\net8.0\Mobile_Programming_MidTerm.csproj.CoreCompileInputs.cache
+C:\university\4th semester\Mobile Programming\Mobile_Programming_MidTerm\obj\Debug\net8.0\Mobile_Programming_MidTerm.dll
+C:\university\4th semester\Mobile Programming\Mobile_Programming_MidTerm\obj\Debug\net8.0\refint\Mobile_Programming_MidTerm.dll
+C:\university\4th semester\Mobile Programming\Mobile_Programming_MidTerm\obj\Debug\net8.0\Mobile_Programming_MidTerm.pdb
+C:\university\4th semester\Mobile Programming\Mobile_Programming_MidTerm\obj\Debug\net8.0\Mobile_Programming_MidTerm.genruntimeconfig.cache
+C:\university\4th semester\Mobile Programming\Mobile_Programming_MidTerm\obj\Debug\net8.0\ref\Mobile_Programming_MidTerm.dll
