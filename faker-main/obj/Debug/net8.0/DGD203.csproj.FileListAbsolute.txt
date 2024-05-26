@@ -1,0 +1,14 @@
+C:\Users\thulf\Desktop\faker-main\bin\Debug\net8.0\DGD203.exe
+C:\Users\thulf\Desktop\faker-main\bin\Debug\net8.0\DGD203.deps.json
+C:\Users\thulf\Desktop\faker-main\bin\Debug\net8.0\DGD203.runtimeconfig.json
+C:\Users\thulf\Desktop\faker-main\bin\Debug\net8.0\DGD203.dll
+C:\Users\thulf\Desktop\faker-main\bin\Debug\net8.0\DGD203.pdb
+C:\Users\thulf\Desktop\faker-main\obj\Debug\net8.0\DGD203.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thulf\Desktop\faker-main\obj\Debug\net8.0\DGD203.AssemblyInfoInputs.cache
+C:\Users\thulf\Desktop\faker-main\obj\Debug\net8.0\DGD203.AssemblyInfo.cs
+C:\Users\thulf\Desktop\faker-main\obj\Debug\net8.0\DGD203.csproj.CoreCompileInputs.cache
+C:\Users\thulf\Desktop\faker-main\obj\Debug\net8.0\DGD203.dll
+C:\Users\thulf\Desktop\faker-main\obj\Debug\net8.0\refint\DGD203.dll
+C:\Users\thulf\Desktop\faker-main\obj\Debug\net8.0\DGD203.pdb
+C:\Users\thulf\Desktop\faker-main\obj\Debug\net8.0\DGD203.genruntimeconfig.cache
+C:\Users\thulf\Desktop\faker-main\obj\Debug\net8.0\ref\DGD203.dll

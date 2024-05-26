@@ -1,0 +1,14 @@
+C:\university\3rd semester\C# Game Programming\FINAL PROJECT C#\faker-main\bin\Debug\net8.0\DouElfaqarBenazzouz_225040009_GameProgramming.exe
+C:\university\3rd semester\C# Game Programming\FINAL PROJECT C#\faker-main\bin\Debug\net8.0\DouElfaqarBenazzouz_225040009_GameProgramming.deps.json
+C:\university\3rd semester\C# Game Programming\FINAL PROJECT C#\faker-main\bin\Debug\net8.0\DouElfaqarBenazzouz_225040009_GameProgramming.runtimeconfig.json
+C:\university\3rd semester\C# Game Programming\FINAL PROJECT C#\faker-main\bin\Debug\net8.0\DouElfaqarBenazzouz_225040009_GameProgramming.dll
+C:\university\3rd semester\C# Game Programming\FINAL PROJECT C#\faker-main\bin\Debug\net8.0\DouElfaqarBenazzouz_225040009_GameProgramming.pdb
+C:\university\3rd semester\C# Game Programming\FINAL PROJECT C#\faker-main\obj\Debug\net8.0\DouElfaqarBenazzouz_225040009_GameProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\university\3rd semester\C# Game Programming\FINAL PROJECT C#\faker-main\obj\Debug\net8.0\DouElfaqarBenazzouz_225040009_GameProgramming.AssemblyInfoInputs.cache
+C:\university\3rd semester\C# Game Programming\FINAL PROJECT C#\faker-main\obj\Debug\net8.0\DouElfaqarBenazzouz_225040009_GameProgramming.AssemblyInfo.cs
+C:\university\3rd semester\C# Game Programming\FINAL PROJECT C#\faker-main\obj\Debug\net8.0\DouElfaqarBenazzouz_225040009_GameProgramming.csproj.CoreCompileInputs.cache
+C:\university\3rd semester\C# Game Programming\FINAL PROJECT C#\faker-main\obj\Debug\net8.0\DouElfaqarBenazzouz_225040009_GameProgramming.dll
+C:\university\3rd semester\C# Game Programming\FINAL PROJECT C#\faker-main\obj\Debug\net8.0\refint\DouElfaqarBenazzouz_225040009_GameProgramming.dll
+C:\university\3rd semester\C# Game Programming\FINAL PROJECT C#\faker-main\obj\Debug\net8.0\DouElfaqarBenazzouz_225040009_GameProgramming.pdb
+C:\university\3rd semester\C# Game Programming\FINAL PROJECT C#\faker-main\obj\Debug\net8.0\DouElfaqarBenazzouz_225040009_GameProgramming.genruntimeconfig.cache
+C:\university\3rd semester\C# Game Programming\FINAL PROJECT C#\faker-main\obj\Debug\net8.0\ref\DouElfaqarBenazzouz_225040009_GameProgramming.dll
